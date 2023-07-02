@@ -1,0 +1,18 @@
+
+# start
+requests
+#json
+#time
+#os
+decouple
+sklearn
+tensorflow
+pandas
+matplotlib
+#collections
+#math
+streamlit
+opencv-python
+#glob
+pickle
+colorama

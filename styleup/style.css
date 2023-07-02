@@ -1,0 +1,72 @@
+
+
+
+h1 {
+  color: black;
+  font-family: 'Courier New';
+  font-size: 43px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: -50px;
+}
+
+p {
+  color: black;
+  font-size: 25px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+/* upload a pic text */
+.css-15tx938 {
+  margin-top: 10px;
+  margin-bottom: 25px;
+  margin-left: 10px;
+  color: black;
+  font-size: 25px;
+}
+
+/* drop box */
+.css-po3vlj {
+  background-color: #fcfcfa;
+  border-width: 1px;
+  /*border-style: solid;
+  border-color: black;*/
+  margin-left: 10px;
+}
+
+/* drag and drop text */
+span.css-9ycgxx.exg6vvm12 {
+  font-size: 14px;
+}
+
+/* radio captions */
+.st-af {
+  font-size: 14px;
+}
+
+
+
+[role="radiogroup"]
+{
+
+  margin-left: 10px;
+  margin-top: 30px;
+  margin-bottom: -10px;
+}
+
+[data-testid="stImage"] {
+  margin-left: 10px;
+  margin-bottom: -50px;
+}
+
+hr {
+  margin-top: 60px;
+}
+
+
+
+/* hide streamlit stuff */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
